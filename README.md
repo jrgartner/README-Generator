@@ -38,7 +38,7 @@ up to the user
 
 ## Screenshot
 
-![Screenshot](./assets/Screen Shot 2022-05-21 at 6.17.12 PM.png)
+![Picture of the Homescreen](./assets/screenshot.png "screenshot of the readme")
 
 ## Features
 
