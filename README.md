@@ -40,6 +40,8 @@ up to the user
 
 ![Picture of the Homescreen](./assets/screenshot.png "screenshot of the readme")
 
+Link to video of how to use: https://drive.google.com/file/d/1b5KhtDhr27jRU3GMc6Z4TemmrlzePiAB/view?usp=sharing
+
 ## Features
 
 node js
